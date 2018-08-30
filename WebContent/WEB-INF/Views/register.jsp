@@ -16,7 +16,7 @@
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <style> 
 h2 {
-margin-top:15px;
+margin-top:15px; 
 margin-left:120px;
 }
 form{

@@ -17,7 +17,7 @@
 <style>
 p {
 	margin-top: 200px;
-	margin-bottom: 100px;
+	margin-bottom: 100px; 
 	margin-right: 150px;
 	margin-left: 150px;
 }
